@@ -1,0 +1,75 @@
+#book-container{
+    height: 10vh;
+    width: 80vw;
+    background-color: #784a62;
+
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.book-data {
+    padding: 5px;    
+    border: 2px solid black;
+    background-color: white;
+    height: 45%;
+
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+
+#container-data1 {
+    width: 4%;
+}
+
+#container-data2 {
+    width: 25%;
+}
+
+#container-data3 {
+    width: 20%;
+}
+
+#container-data4 {
+    width: 8%;
+}
+
+.btn{
+    height: 40%;
+    width: 7%;
+    background-color: white;
+    color: black;
+}
+
+#remove-btn {
+    background-color: whitesmoke;
+    cursor: pointer;
+}
+
+#update-btn {
+    background-color: #D9EDBF;
+    color: black;
+    cursor: pointer;
+}
+
+.input-data{
+    height: 45%;
+}
+
+#input-data1{
+    width: 4%;
+}
+#input-data2{
+    width: 25%;
+}
+
+#input-data3{
+    width: 20%;
+}
+
+#input-data4{
+    width: 8%;
+}
+

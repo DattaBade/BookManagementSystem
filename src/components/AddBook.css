@@ -1,0 +1,28 @@
+.form-container{
+    height: 9vh;
+    width: 80vw;
+
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+    background-color: plum;
+
+}
+
+.form-div{
+    height: 100%;
+    width: 100%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    background-color: pink;
+}
+
+#add-btn{
+    height: 40%;
+    width: 5%;
+    background-color: #FDFFC2;
+    cursor: pointer;
+}
